@@ -59,7 +59,7 @@ The project combines:
 Complete electrical connection scheme:
 
 <p>
-<img src="Preview/electrical_scheme.png">
+<img src="https://github.com/1Rebern/esp32c3-thermo-hygrometer/blob/main/Preview/ESP32-C3-Thermo-Hygrometer_Sheme.jpg">
 </p>
 
 ---
